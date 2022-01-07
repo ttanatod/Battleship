@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="false" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="gui.SkillPane" project="ProjectBattleship" 
+    file="/ProjectBattleship/src/gui/SkillPane.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2073" y="250"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="logic.Player" project="ProjectBattleship" 
+    file="/ProjectBattleship/src/logic/Player.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="255" width="212" x="1721" y="176"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="Main.BattleShipMain" project="ProjectBattleship" 
+    file="/ProjectBattleship/src/Main/BattleShipMain.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="661" width="151" x="1152" y="176"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="gui.StateButton" project="ProjectBattleship" 
+    file="/ProjectBattleship/src/gui/StateButton.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1502" y="298"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="Entity.Ship03" project="ProjectBattleship" 
+    file="/ProjectBattleship/src/Entity/Ship03.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3284" y="761"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="Entity.VerticalDestroy" project="ProjectBattleship" 
+    file="/ProjectBattleship/src/Entity/VerticalDestroy.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2640" y="762"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="Entity.Ship04" project="ProjectBattleship" 
+    file="/ProjectBattleship/src/Entity/Ship04.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3513" y="764"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="Entity.Ship01" project="ProjectBattleship" 
+    file="/ProjectBattleship/src/Entity/Ship01.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3736" y="768"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="gui.AllMenuButton" project="ProjectBattleship" 
+    file="/ProjectBattleship/src/gui/AllMenuButton.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="328" x="1340" y="438"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="Entity.Ship02" project="ProjectBattleship" 
+    file="/ProjectBattleship/src/Entity/Ship02.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3979" y="792"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="Entity.Base.Skill" project="ProjectBattleship" 
+    file="/ProjectBattleship/src/Entity/Base/Skill.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2704" y="267"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="gui.WinnerButton" project="ProjectBattleship" 
+    file="/ProjectBattleship/src/gui/WinnerButton.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="329" x="1340" y="589"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="gui.ShipPane" project="ProjectBattleship" 
+    file="/ProjectBattleship/src/gui/ShipPane.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2072" y="419"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="gui.FieldCell" project="ProjectBattleship" 
+    file="/ProjectBattleship/src/gui/FieldCell.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2324" y="365"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="15" language="java" name="Entity.Base.Buttonable" project="ProjectBattleship" 
+    file="/ProjectBattleship/src/Entity/Base/Buttonable.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3293" y="1085"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="16" language="java" name="gui.UIGameButton" project="ProjectBattleship" 
+    file="/ProjectBattleship/src/gui/UIGameButton.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="332" x="1340" y="737"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="gui.FieldPane" project="ProjectBattleship" 
+    file="/ProjectBattleship/src/gui/FieldPane.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="210" x="2222" y="581"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="Entity.HorizontalDestroy" project="ProjectBattleship" 
+    file="/ProjectBattleship/src/Entity/HorizontalDestroy.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2903" y="762"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="logic.GameController" project="ProjectBattleship" 
+    file="/ProjectBattleship/src/logic/GameController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="386" width="213" x="1721" y="454"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="gui.GameButton" project="ProjectBattleship" 
+    file="/ProjectBattleship/src/gui/GameButton.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="219" width="224" x="1962" y="623"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="Entity.Base.BaseShip" project="ProjectBattleship" 
+    file="/ProjectBattleship/src/Entity/Base/BaseShip.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3793" y="375"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <realization id="22">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="15"/>  
+  </realization>  
+  <generalization id="23">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <realization id="24">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="15"/>  
+  </realization>  
+  <realization id="25">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="15"/>  
+  </realization>  
+  <generalization id="26">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <generalization id="27">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <realization id="28">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="15"/>  
+  </realization>  
+  <realization id="29">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="15"/>  
+  </realization>  
+  <generalization id="30">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <realization id="31">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="15"/>  
+  </realization>  
+  <generalization id="32">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <generalization id="33">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
